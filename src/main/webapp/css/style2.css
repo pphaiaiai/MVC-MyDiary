@@ -1,0 +1,32 @@
+body {
+    margin: 30px 50px ;
+}
+table {
+    width: 80% ;
+}
+th, td {
+    padding: 10px ;
+    margin: 5px ;
+    border-bottom: 1px solid #ddd ;
+    text-align: center;
+}
+.title {
+    text-align: left;
+}
+.logger {
+    font-size: small ;
+    font-style: italic;
+    color: darkgray;
+}
+label, input, textarea {
+    padding: 10px ;
+    margin: 5px ;
+}
+.button {
+    background-color: #AA96DA;
+    color: white;
+    padding: 8px 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+}
